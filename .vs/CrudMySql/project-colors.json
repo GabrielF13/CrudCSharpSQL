@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fbc45049-0646-4182-a8cc-1e401794dcc5": {
+      "ProjectGuid": "fbc45049-0646-4182-a8cc-1e401794dcc5",
+      "DisplayName": "CrudMySql",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
